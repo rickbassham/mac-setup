@@ -29,6 +29,7 @@ utils:
 	brew cask install dbeaver-community
 	brew cask install docker
 	brew cask install iterm2
+	brew install jq
 	brew cleanup
 
 devtools:
